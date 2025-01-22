@@ -1,0 +1,17 @@
+E:\qy\.godot\mono\temp\bin\Debug\Qy.deps.json
+E:\qy\.godot\mono\temp\bin\Debug\Qy.runtimeconfig.json
+E:\qy\.godot\mono\temp\bin\Debug\Qy.dll
+E:\qy\.godot\mono\temp\bin\Debug\Qy.pdb
+E:\qy\.godot\mono\temp\bin\Debug\GodotSharp.dll
+E:\qy\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+E:\qy\.godot\mono\temp\obj\Debug\Qy.csproj.AssemblyReference.cache
+E:\qy\.godot\mono\temp\obj\Debug\Qy.GeneratedMSBuildEditorConfig.editorconfig
+E:\qy\.godot\mono\temp\obj\Debug\Qy.AssemblyInfoInputs.cache
+E:\qy\.godot\mono\temp\obj\Debug\Qy.AssemblyInfo.cs
+E:\qy\.godot\mono\temp\obj\Debug\Qy.csproj.CoreCompileInputs.cache
+E:\qy\.godot\mono\temp\obj\Debug\Qy.csproj.Up2Date
+E:\qy\.godot\mono\temp\obj\Debug\Qy.dll
+E:\qy\.godot\mono\temp\obj\Debug\refint\Qy.dll
+E:\qy\.godot\mono\temp\obj\Debug\Qy.pdb
+E:\qy\.godot\mono\temp\obj\Debug\Qy.genruntimeconfig.cache
+E:\qy\.godot\mono\temp\obj\Debug\ref\Qy.dll

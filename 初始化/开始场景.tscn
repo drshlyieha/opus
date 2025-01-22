@@ -1,0 +1,14 @@
+[gd_scene load_steps=4 format=3 uid="uid://dx2raj3vjaqgr"]
+
+[ext_resource type="Script" path="res://初始化/开始场景初始化.cs" id="1_hc1uy"]
+[ext_resource type="Texture2D" uid="uid://bufjvfyqr2ysg" path="res://卡/卡牌/实验/实验.png" id="2_rwcjy"]
+[ext_resource type="Script" path="res://卡/卡牌/实验/实验.cs" id="3_mkj8o"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_hc1uy")
+
+[node name="无标题" type="Sprite2D" parent="."]
+position = Vector2(179, 790)
+scale = Vector2(0.825301, 0.825301)
+texture = ExtResource("2_rwcjy")
+script = ExtResource("3_mkj8o")

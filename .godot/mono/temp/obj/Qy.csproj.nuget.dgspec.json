@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\opus\\Qy.csproj": {}
+    "E:\\Opportunity-life\\Qy.csproj": {}
   },
   "projects": {
-    "E:\\opus\\Qy.csproj": {
+    "E:\\Opportunity-life\\Qy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\opus\\Qy.csproj",
+        "projectUniqueName": "E:\\Opportunity-life\\Qy.csproj",
         "projectName": "Qy",
-        "projectPath": "E:\\opus\\Qy.csproj",
+        "projectPath": "E:\\Opportunity-life\\Qy.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\opus\\.godot\\mono\\temp\\obj\\",
+        "outputPath": "E:\\Opportunity-life\\.godot\\mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

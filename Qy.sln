@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qy", "Qy.csproj", "{558976CE-C6D5-4383-86D4-08F6C30C327B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qy", "Qy.csproj", "{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,11 +9,11 @@ Global
 	ExportRelease|Any CPU = ExportRelease|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{558976CE-C6D5-4383-86D4-08F6C30C327B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{558976CE-C6D5-4383-86D4-08F6C30C327B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{558976CE-C6D5-4383-86D4-08F6C30C327B}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
-		{558976CE-C6D5-4383-86D4-08F6C30C327B}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
-		{558976CE-C6D5-4383-86D4-08F6C30C327B}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
-		{558976CE-C6D5-4383-86D4-08F6C30C327B}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{51719EF9-B5CF-4CE7-B5CD-6C4CE6802309}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
 	EndGlobalSection
 EndGlobal

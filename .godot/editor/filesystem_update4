@@ -1,1 +1,8 @@
 res://实验/场景/卡牌/实验.tscn
+res://实验/场景/测试战斗.tscn
+res://实验/场景/卡牌/实验2.tscn
+res://实验/脚本/实验.cs
+res://实验/脚本/实验2.cs
+res://实验/场景/卡牌/实验点.cs
+res://实验/场景/卡牌/TextureButton2.cs
+res://实验/场景/卡牌/TextureButton.cs

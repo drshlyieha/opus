@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://1sevgit4fr6p"]
+
+[ext_resource type="Texture2D" uid="uid://bufjvfyqr2ysg" path="res://实验/素材/实验.png" id="1_eo6v8"]
+
+[node name="测试战斗" type="Node2D"]
+
+[node name="实验" type="Sprite2D" parent="."]
+position = Vector2(657, 895)
+texture = ExtResource("1_eo6v8")
+
+[node name="实验2" type="Sprite2D" parent="."]
+position = Vector2(663, 160)
+texture = ExtResource("1_eo6v8")

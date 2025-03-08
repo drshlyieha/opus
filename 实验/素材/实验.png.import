@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bufjvfyqr2ysg"
-path="res://.godot/imported/实验.png-876f99eae73cd0bfca39f1062e899593.ctex"
+path="res://.godot/imported/实验.png-0930e708e3e01bb6b7039c074f76cb49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://卡/卡牌/实验/实验.png"
-dest_files=["res://.godot/imported/实验.png-876f99eae73cd0bfca39f1062e899593.ctex"]
+source_file="res://实验/素材/实验.png"
+dest_files=["res://.godot/imported/实验.png-0930e708e3e01bb6b7039c074f76cb49.ctex"]
 
 [params]
 

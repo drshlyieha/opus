@@ -12,6 +12,7 @@ config_version=5
 
 config/name="Opportunity life"
 config/version="0.1"
+run/main_scene="uid://csaxexld8rjj"
 config/features=PackedStringArray("4.4", "C#", "GL Compatibility")
 
 [display]
@@ -27,8 +28,3 @@ project/assembly_name="Qy"
 [physics]
 
 2d/run_on_separate_thread=true
-
-[rendering]
-
-renderer/rendering_method="gl_compatibility"
-renderer/rendering_method.mobile="gl_compatibility"
